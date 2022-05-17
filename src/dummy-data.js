@@ -54,6 +54,66 @@ const dummyData = [
             },
         ],
     },
+    {
+        id: 3,
+        username: "snitch",
+        thumbnailUrl: 'https://icon2.cleanpng.com/20180320/sqe/kisspng-twitch-computer-icons-streaming-media-youtube-live-tv-twitch-icon-5ab19172461392.001176751521586546287.jpg',
+        imageUrl: 'https://images.unsplash.com/photo-1566577134770-3d85bb3a9cc4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3750&q=80',
+        likes: 1307,
+        timestamp: "July 15th 2017, 03:12:09 pm",
+        comments: [
+            {
+                id: 46,
+                username: "twitch",
+                text: "Epic Street Fighter action here in Vegas!",
+            },
+            {
+                id: 47,
+                username: "michaelmarzetta",
+                text: "Omg that match was crazy",
+            },
+            {
+                id: 48,
+                username: "themexican_leprechaun",
+                text: "What a setup",
+            },
+            {
+                id: 49,
+                username: "dennis_futbol",
+                text: "It that injustice",
+            },
+        ],
+    },
+    {
+        id: 4,
+        username: "witch",
+        thumbnailUrl: 'https://icon2.cleanpng.com/20180320/sqe/kisspng-twitch-computer-icons-streaming-media-youtube-live-tv-twitch-icon-5ab19172461392.001176751521586546287.jpg',
+        imageUrl: 'https://images.unsplash.com/photo-1566577134770-3d85bb3a9cc4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3750&q=80',
+        likes: 4507,
+        timestamp: "July 15th 2017, 03:12:09 pm",
+        comments: [
+            {
+                id: 56,
+                username: "twitch",
+                text: "Epic Street Fighter action here in Vegas!",
+            },
+            {
+                id: 57,
+                username: "michaelmarzetta",
+                text: "Omg that match was crazy",
+            },
+            {
+                id: 58,
+                username: "themexican_leprechaun",
+                text: "What a setup",
+            },
+            {
+                id: 59,
+                username: "dennis_futbol",
+                text: "It that injustice",
+            },
+        ],
+    },
 ];
 
 export default dummyData;
